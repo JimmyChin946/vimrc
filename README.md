@@ -1,2 +1,6 @@
 # vimrc
-my vimrc that I use
+The vimrc that I use
+
+# Plugins
+youcompleteme
+ALE
